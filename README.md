@@ -1,5 +1,6 @@
-# ZORRO-FUTURES-HISTORY
-Zorro Trader Futures History Files <br>
+# ZORRO-FUTURES-HISTORY  
+
+Futures History Files, 1 Minute , EST Time Zone, volume based RollOver <br>
 
 1. Extract and Copy files i History Folder.  <br>
 2. Set in Assets CSV file asset info. <br>
